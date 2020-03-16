@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210201601009",
+    "firebase_url": "https://leafanima-260617.firebaseio.com",
+    "project_id": "leafanima-260617",
+    "storage_bucket": "leafanima-260617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210201601009:android:4135f10398062a77389a50",
+        "android_client_info": {
+          "package_name": "store.leafanima.ionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210201601009-bt3e14c3dc7br06umep59kjh6u07604j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7m1Zox0FoY9yUCsP_izPLjf4wmmZw_o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210201601009-ul1gtlm97avbmkfcfbq187lb3mbduqbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210201601009-6tqqa6chpvrg7p2sufm0oirsao36slev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "store.leafanima.ionfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
